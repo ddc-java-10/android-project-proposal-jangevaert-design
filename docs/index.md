@@ -7,7 +7,7 @@ layout: default
 ## Summary
 
 This personalized safari app will guide guests of [Ajabu Adventures inc.](https://ajabu-adventures.com/) (Tanzania, East-Africa) through every step of their pre-, actual and post-travel. ..
-Guests will be prompted do download the app one week prior to their departure and will be assisted with different features depending on their calendar en location.
+Guests will be prompted to download the app one week prior to their departure and will be assisted with different features depending on their calendar en location.
 Since Ajabu Adventures is a small scale, high end company with four vehicles and four guides, client data input will be mimimal and the itinerary will be limited to one six-day trip with fixed overnight stays (i.e only six lodges will be used).
  
 
@@ -15,11 +15,11 @@ Since Ajabu Adventures is a small scale, high end company with four vehicles and
 ## Intended users
 
 * Travelers who need additional and easy accessible information.
-    > As a travel journalist, this app allows me to focus more on my wildlife photography instead of taking notes because the app informs me of my exact location, the weather forecast, the lodges where I will stay at and the National Parks to visit./
+    > As a travel journalist, this app allows me to focus more on my wildlife photography instead of taking notes because the app informs me of my exact location, the weather forecast, the lodges where I will stay at and the National Parks to visit.
 * First time Africa-travelers.
-    > This is my first time to travel to Africa and I am pretty nervous about it. The app sends me reminders of my departure date and hour, offers me a packing list and makes me feel comfortable knowing exactly what the activities will be and the how the place looks where we'll stay at. Furthermore we will be introduced to our guide prior to departure and we have all our contact information (at home as well as of the tour company stored in the app and ready with one click).
+    > This is my first time to travel to Africa and I am pretty nervous about it. The app sends me reminders of my departure date and hour, offers me a packing list and makes me feel comfortable knowing exactly what the activities will be and how the place looks where we'll stay at. Furthermore we will be introduced to our guide prior to departure and we have all our contact information (at home as well as of the tour company) stored in the app and ready with one click.
 * The seasoned travelers  
-    > We love to travel but are getting a little older. This app will help us to avoid missed planes or early morning safaris; it will assist us in following up which park we will visit next but morst important, it will end the ongoing discussions with my husband about which picture we took where and what the weather was in the Ngorongoro Crater. Lastly, having something to read around the campfire of what is awaiting us the next day is simply amazing.
+    > We love to travel but are getting a little older. This app will help us to avoid missed planes or early morning safaris; it will assist us in following up which park we will visit next but most important, it will end the ongoing discussions with my husband about which picture we took where and what the weather was in the Ngorongoro Crater. Lastly, having something to read around the campfire of what is awaiting us the next day is simply amazing.
 
 
 
