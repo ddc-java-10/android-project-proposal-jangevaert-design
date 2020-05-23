@@ -1,5 +1,5 @@
 ---
-title: My Android project
+title: Personalized safari app
 description: "Trust me, it'll be cool"
 layout: default
 ---
@@ -7,6 +7,8 @@ layout: default
 ## Summary
 
 Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the Android app you propose to develop in this project.
+This personalized safari app will guide guests of [Ajabu Adventures inc.](https://ajabu-adventures.com/) (Tanzania, East-Africa) through every step of their pre-, actual and post-travel.
+Guests will be prompted do download the app one week prior to their departure and will be assisted with different features depending on their calendar en location.
 
 ## Intended users
 
@@ -23,6 +25,10 @@ Here is one (silly) example of an intended user, along with a user story. Please
 * People who like to use randomness in their decision making.
 
     > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
+* Travelers who need additional and easy accessible information.
+    > As a travel journalist, this app allows me to focus more on my wildlife photography instead of taking notes because the app informs me of my exact location, the weather forecast, the lodges where I will stay at and the National Parks to visit./
+* First time Africa-travelers.
+    > This is my first time to travel to Africa and I am pretty nervous about it. The app reminds me of my flight information, offers me a packing list and makes me feel comfortable knowing exactly what the activities and the place where we'll stay be at any given day. Furthermore we will be introduced to our guide prior to departure and we have all our contact information (at home as well of the tour company stored in the app and ready with one click.  
 
 ## Functionality
 
