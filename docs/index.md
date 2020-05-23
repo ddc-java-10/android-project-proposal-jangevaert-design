@@ -32,6 +32,7 @@ pre-travel (one week before departure day)
   * countdown to departure day plus information on airport, airline company, depature time and time of arrival.
 
 actual safari
+  * automatic time difference adjustment upon arrival
   *  daily reminder clock or alarm for start hour of the day.
   *  day to day changing introduction to the park to visit as well as the lodge to stay at for that particular night.
   *  access to real time gps to follow the daily route.
@@ -58,12 +59,12 @@ post - travel (until one week after arrival home)
 
 ## Device/external services
 
-access to device features:
+*access to device features:
   * contacts list
   * camera 
   * gps
-  * calendar and clock+alarm
-access to external services: 
+  * calendar and clock + alarm + time adjustment
+*access to external services: 
   * [Google maps](https://www.google.com/maps) 
   * [weather chanel](https://weather.com/weather/today/l/Arusha+United+Republic+Of+Tanzania+TZXX0214:1:TZ)
 
@@ -72,3 +73,4 @@ access to external services:
 
 * link to a postcard service that converts pics to postcards and send them to addressees.
 * a possibility to add a second person to use the app on his/her device plus a link to a version tailored to children with fun facts or games about the wildlife they see.
+
