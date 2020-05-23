@@ -25,13 +25,13 @@ Since Ajabu Adventures is a small scale, high end company with four vehicles and
 
 ## Functionality
 
-1. pre-travel (one week before departure day)
+*pre-travel (one week before departure day)
    > walk through of the app and its features.
    > introduction to the guide during the safari (name and experience, picture plus short video presentation).
    > packing list and needed documents and injections, short information to the country, the company and the trip.
    > countdown to departure day plus information on airport, airline company, depature time and time of arrival.
 
-2. actual safari
+*actual safari
    > daily reminder clock or alarm for start hour of the day.
    > day to day changing introduction to the park to visit as well as the lodge to stay at for that particular night.
    > access to real time gps to follow the daily route.
@@ -39,7 +39,7 @@ Since Ajabu Adventures is a small scale, high end company with four vehicles and
    > camera linked to date and location to tag pictures.
    > easy access to relevant information on the history and geography of the park as well as on wildlife.
 
-3. post - travel (until one week after arrival home)
+*post - travel (until one week after arrival home)
    > debriefing and possibility to fill out a survey
    > possibility to extract data from the app, such as route and driving time to recreate the trip in another format.
    
@@ -62,6 +62,7 @@ Since Ajabu Adventures is a small scale, high end company with four vehicles and
    > contacts list
    > camera 
    > gps
+   > calendar and clock+alarm
 2. access to external services: 
    > [Google maps](https://www.google.com/maps) 
    > [weather chanel](https://weather.com/weather/today/l/Arusha+United+Republic+Of+Tanzania+TZXX0214:1:TZ)
