@@ -1,5 +1,7 @@
 # Android project proposal starter
 
+This personalized safari app will guide guests of a small scale, high end safari company through their trip in Tanzania, East Africa. The app consists of three main levels; post-, actual, and post-travel, each with their distinguished features.
+
 ## Project expectations
 
 In coming up with a project topic and writing the proposal, please keep in mind the _basic_ requirements for the personal Android project:
