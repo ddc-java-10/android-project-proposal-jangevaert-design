@@ -66,7 +66,7 @@ Since Ajabu Adventures is a small scale, high end company with four vehicles and
     - calendar and clock + alarm + time adjustment
 
 *  **access to external services:**
-    - [Google maps](https://www.google.com/maps) 
+    - [Google maps](https://developers.google.com/maps/documentation/android-sdk/intro) 
     - [weather chanel](https://weather.com/weather/today/l/Arusha+United+Republic+Of+Tanzania+TZXX0214:1:TZ)
 
 
