@@ -1,58 +1,50 @@
 ---
 title: Personalized safari app
-description: "Trust me, it'll be cool"
+description: "The future is now!"
 layout: default
 ---
 
 ## Summary
 
-This personalized safari app will guide guests of [Ajabu Adventures inc.](https://ajabu-adventures.com/) (Tanzania, East-Africa) through every step of their pre-, actual and post-travel.
-Guests will be prompted to download the app one week prior to their departure and will be assisted with different features depending on their calendar and location.
+This personalized safari app will guide guests of [Ajabu Adventures inc.](https://ajabu-adventures.com/) (Tanzania, East-Africa) through every step of their pre- and actual travel.
+Guests will be prompted to download the app one week prior to their departure and will be assisted with their schedule through different features. 
+At this stage the app will use a fixed itinerary so the client will fill out his/her own contact and flight information and no web forms will be used for input.
 Since Ajabu Adventures is a small scale, high end company with four vehicles and four guides only, client data input will be mimimal and the itinerary will be limited to the most popular six-day trip with fixed overnight stays (i.e only six lodges will be used).
- 
 
 
 ## Intended users
 
 * **Travelers who need additional and easy accessible information.**
-    > As a travel journalist, this app allows me to focus more on my wildlife photography instead of taking notes because the app informs me of my exact location, the weather forecast, the lodges where I will stay at and the National Parks to visit.
+    > As a travel journalist, this app allows me to focus more on my wildlife photography instead of taking notes because the app gives me all the information on the lodges where I will stay at and the National Parks to visit.
+
 * **First time Africa-travelers.**
-    > This is my first time to travel to Africa and I am pretty nervous about it. The app sends me reminders of my departure date and hour, offers me a packing list and makes me feel comfortable knowing exactly what the activities will be and how the place looks where we'll stay at. 
-* **The seasoned travelers** 
-    > We love to travel but are getting a little older so this app will help us to avoid missing early morning safaris; it will assist us in following up which park we will visit next but most important, it will end the ongoing discussions with my husband about which picture we took where and what the weather was in the Ngorongoro Crater. Lastly, having something to read around the campfire of what is awaiting us the next day is simply amazing.
+    > The app offers me a packing list plus additional information on the country  and makes me feel comfortable knowing exactly what the activities and the place where we'll stay at will be at any given day. Furthermore we will be having all our contact information (at home as well of the tour company) stored in the app and ready with one click.  
+
 
 
 
 ## Functionality
 
-**pre-travel (one week before departure day)**
-  * walk through of the app and its features.
-  * introduction to the guide for the safari (name and experience, picture plus short video presentation).
-  * packing list and needed documents and injections, short information to the country, the company and the trip.
-  * countdown to departure day plus information on airport, airline company, depature time and time of arrival.
+1. pre-travel (one week before departure day)
+   > walk through of the app and its features.
+   >client will be given fields to fill out names of the party, departure and arrival times of flights (number + airline).
+   > packing list and needed documents and injections, short information to the country, the company and the trip.
+2. actual safari
+   > day to day introduction to the park to visit as well as the lodge to stay for that night.
+   > Fixed PoI’s shown on a basic map combined with the actual geo-position of the client in order to decide what places to visit.
+   > easy access to relevant information on the history and geography of the park as well as on wildlife. 
+      >(if too much for the scope of this project, links to existing information can be provided)
 
-**actual safari**
-  * automatic time difference adjustment upon arrival
-  *  daily reminder clock or alarm for start hour of the day.
-  *  day to day changing introduction to the park to visit as well as the lodge to stay at for that particular night.
-  *  access to real time gps to follow the daily route.
-  *  access to a real time weather channel.
-  *  camera linked to date and location to tag pictures.
-  *  easy access to relevant information on the history and geography of the park as well as on wildlife.
-
-**post-travel (until one week after arrival home)**
-  * debriefing and possibility to fill out a survey
-  * possibility to extract data from the app, such as route and driving time to recreate the trip in another format (if in the scope of this assignment).
-   
+    
    
    
 ## Persistent data
 
 * itinerary
-* list of parks and lodges (if possible to be refreshed every day to the relevant trip)
-* information on parks and wildlife
-* contact information
-* departure data to and from Tanzania
+* list of parks and lodges
+* information on parks and wildlife (if needed through links)
+* contact information (to be entered by the client)
+* departure data to and from Tanzania (to be entered by the client)
 * packing list, general information on the travel (documents, health, do's-and-dont's)
 
 
@@ -60,18 +52,20 @@ Since Ajabu Adventures is a small scale, high end company with four vehicles and
 ## Device/external services
 
 *access to device features:
-  - contacts list 
-  - camera 
-  - gps
-  - calendar and clock + alarm + time adjustment
+   > geo location
+   > clock
+
 
 *access to external services: 
-  - [Google maps](https://developers.google.com/maps/documentation/javascript/tutorial) 
-  - [weather chanel](https://openweathermap.org/api)
+   > [Google maps](https://developers.google.com/maps/documentation/javascript/tutorial) 
+  
 
 
 ## Stretch goals/possible enhancements
 
 * link to a postcard service that converts pics to postcards and send them to addressees.
 * link to FB, Instagram, .. to post pictures and updates on the fly.
+* in a later stage [Firebase]( https://firebase.google.com/docs/reference/android/packages) could be used to enter data in the app  on the provider side (tour operator)  which can then be accessed on the client side.
+*  link to a weather station
+* access to the device camera to tag pictures with data and geo location
 
