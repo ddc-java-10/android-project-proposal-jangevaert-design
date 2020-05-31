@@ -22,17 +22,16 @@ Since Ajabu Adventures is a small scale, high end company with four vehicles and
 
 
 
-
 ## Functionality
 
 1. pre-travel (one week before departure day)
-   > walk through of the app and its features.
-   >client will be given fields to fill out names of the party, departure and arrival times of flights (number + airline).
-   > packing list and needed documents and injections, short information to the country, the company and the trip.
+   * walk through of the app and its features.
+   * client will be given fields to fill out names of the party, departure and arrival times of flights (number + airline).
+   * packing list and needed documents and injections, short information to the country, the company and the trip.
 2. actual safari
-   > day to day introduction to the park to visit as well as the lodge to stay for that night.
-   > Fixed PoI’s shown on a basic map combined with the actual geo-position of the client in order to decide what places to visit.
-   > easy access to relevant information on the history and geography of the park as well as on wildlife. 
+   * day to day introduction to the park to visit as well as the lodge to stay for that night.
+   * Fixed PoI’s shown on a basic map combined with the actual geo-position of the client in order to decide what places to visit.
+   * easy access to relevant information on the history and geography of the park as well as on wildlife. 
       >(if too much for the scope of this project, links to existing information can be provided)
 
     
@@ -52,12 +51,12 @@ Since Ajabu Adventures is a small scale, high end company with four vehicles and
 ## Device/external services
 
 *access to device features:
-   > geo location
-   > clock
+   * geo location
+   * clock
 
 
 *access to external services: 
-   > [Google maps](https://developers.google.com/maps/documentation/javascript/tutorial) 
+   * [Google maps](https://developers.google.com/maps/documentation/javascript/tutorial) 
   
 
 
